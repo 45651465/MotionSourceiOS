@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  GyroTest
+//  MotionSourceiOS
 //
 //  Created by Simon on 28.10.17.
 //  Copyright © 2017 Simon J. All rights reserved.

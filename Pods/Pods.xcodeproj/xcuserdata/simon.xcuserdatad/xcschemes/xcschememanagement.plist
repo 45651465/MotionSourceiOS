@@ -9,7 +9,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-GyroTest.xcscheme</key>
+		<key>Pods-MotionSourceiOS.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -17,7 +17,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3EC2762E463A0E64376F65977D9CFFAA</key>
+		<key>2038AB07CBA64915FD8882E81BB27467</key>
 		<dict>
 			<key>primary</key>
 			<true/>
